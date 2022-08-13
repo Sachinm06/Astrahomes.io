@@ -1,0 +1,15 @@
+body{font-family: 'Fira Sans', sans-serif;}
+.bg-black{background-color: black;}
+.about-section p{font-size: 16px; line-height: 30px;}
+.home-slider h2{font-size: 48px; }
+.home-slider .btn-outline-success{font-size: 25px; line-height: normal;}
+.custom-font{font-size: 40px;}
+.booking-box h4{font-size: 24px;}
+.contact-section{background-image: url(images/img44.png); background-size: cover; background-repeat: no-repeat;}
+.address-box p{font-size: 16px; line-height: 27px;}
+.contact-box textarea.form-control{height:100px}
+@media (max-width:767px){
+    .header-section .navbar-brand img {
+        width: 132px;
+    }
+}
